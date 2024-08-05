@@ -1,4 +1,4 @@
-├── LICENSE            <- Лицензия с открытым исходным кодом, если таковая выбрана
+```
 ├── README.md          <- README для разработчиков, использующих этот проект
 ├── data
 │   ├── raw data       <- Исходные сырые данные
@@ -19,8 +19,8 @@
 │
 ├── references         <- Словари данных, руководства и другие материалы.
 │
-├── requirements.txt   <- `pip3 freeze > requirements-linux.txt`
+├── requirements-linux.txt   <- `pip3 freeze > requirements-linux.txt`
 |                         создание файла со списком библиотек
 |                         `pip install -r requirements.txt`
 |                         установка всех библиотек из файла со списком библиотек
-
+```
