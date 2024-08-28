@@ -9,13 +9,16 @@
 │
 ├── notebooks 
 │   ├── raw nt         <- Коды для выгрузки сырых данных
-|   ├── data line      <- Линии данных для БД
+|   ├── pipeline       <- Линии данных для БД (конвееры или pipline)
 │   ├── processing     <- Коды для обработанных данных
-│   └── sandbox        <- Песочница 
+│   └── sandbox        <- Песочница
 |
-|    <- Ноутбуки Jupyter. Naming convention is a number (for ordering),
-|    the creator's initials, and a short `-` delimited description, e.g.
-|    `1.0-jqp-initial-data-exploration`.
+| <- Ноутбуки Jupyter. Соглашение об именовании файлов репозитория,
+|	`1.0-Kir-filename`.
+|	Где:
+|	1.0 - Номер версии файла
+|	Kir - Инициалы или короткое имя сотрудника (разработчика)
+|	filename - Имя файла
 │
 ├── references         <- Словари данных, руководства и другие материалы.
 │
