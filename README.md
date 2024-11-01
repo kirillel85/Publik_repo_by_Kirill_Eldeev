@@ -4,15 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=100&lines=-+Привет!+-;-+Меня зовут Кирилл+-;-+И я занимаюсь анализом данных+-;-+Учусь с.утками+-">
     <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=100&lines=-+Hello!+-;-+I'm+João+Pedro+-;-+Software+Engineering+Student+-;-+Focused+on+Learning+-">
   </a>
-</p>
-<p align="center">
- 
-</a>
-</p>
 
 <br><br>
-
-<p align="center">
 
 
 🛠️ Tools
