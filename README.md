@@ -23,7 +23,8 @@
 ├── references         <- Словари данных, руководства и другие материалы.
 │
 ├── requirements-linux.txt   <- `pip3 freeze > requirements-linux.txt`
-|                         создание файла со списком библиотек
-|                         `pip install -r requirements.txt`
-|                         установка всех библиотек из файла со списком библиотек
+|                         	создание файла со списком библиотек
+|
+|                         	`pip install -r requirements.txt`
+|                         	установка всех библиотек из файла со списком библиотек
 ```
