@@ -8,10 +8,13 @@
 <br><br>
 
 
-🛠️ Tools
+👨‍💻  languages
+Python SQL
 
-👨‍💻 Programming and markup languages
-Python Pandas
+🗄️ Databases
+Postgrees
 
-🗄️ Databases and cloud hosting
-GitHub Pages Heroku MongoDB Repl.it
+🛠️ Профессиональные инструменты
+Ум  
+Молчание  
+Анализ  
