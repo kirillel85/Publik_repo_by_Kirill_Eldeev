@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
+
 ```
 ├── README.md          <- README для разработчиков, использующих этот проект
 ├── data
