@@ -8,8 +8,7 @@
  <a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
     
   <a href="https://github.com/JotaP07?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=3CB371&labelColor=greyba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   
+      
   <a href="https://github.com/JotaP07/ViewCounter">
     <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/>
 </a>
