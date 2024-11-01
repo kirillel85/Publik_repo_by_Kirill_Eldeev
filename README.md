@@ -12,7 +12,7 @@
 Python SQL
 
 🗄️ Databases
-Postgrees
+Postgres
 
 🛠️ Профессиональные инструменты  
 Ум  
