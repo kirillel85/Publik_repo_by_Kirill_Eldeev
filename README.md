@@ -6,7 +6,7 @@
 </p>
 <p align="center">
  <a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=FFD700&style=for-the-badge&labelColor=grey&logo=star"/></a>
+    
   <a href="https://github.com/JotaP07?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=3CB371&labelColor=greyba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    
