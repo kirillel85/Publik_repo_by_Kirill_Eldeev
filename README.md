@@ -13,14 +13,18 @@
 
 
 👨‍💻  languages
-Python SQL
-
+- Python (Pandas, Numpy, Seaborn, Matplotlib, Request, GSpread, Sqlite3, API)
+- SQL (query, subquery, joins, ETL, DDL, window functions, view, case, CTE и пр.). Google Visualization API (язык SQL в Google Sheets)
+  
 🗄️ Databases
-Postgres
+ClickHouse, PostgresSQL, MySQL, SQLite
 
-🛠️ Профессиональные инструменты  
+🛠️ Остальные профессиональные инструменты  
+- Datalens (Оконные функции, Временные ряды, Параметризация, Вычисляемые поля, LOD, RLS, управление доступами)
+- Power Query, DAX, Power BI
+- Git/Github, Linux-server, Ubuntu, VM VirtualBox, Jupyter Notebook, Google Collab
 
-
+  
 
 "Глупость не предлагает. Глупость не спрашивает. Глупость объясняет."  
 М. Жванецкий
