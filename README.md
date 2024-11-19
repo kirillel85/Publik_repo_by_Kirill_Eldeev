@@ -17,7 +17,7 @@
 - SQL (query, subquery, joins, ETL, DDL, window functions, view, case, CTE и пр.). Google Visualization API (язык SQL в Google Sheets)
   
 🗄️ Databases  
-ClickHouse, PostgresSQL, MySQL, SQLite  
+- ClickHouse, PostgresSQL, MySQL, SQLite  
 
 🛠️ Остальные профессиональные инструменты  
 - Datalens (Оконные функции, Временные ряды, Параметризация, Вычисляемые поля, LOD, RLS, управление доступами)
